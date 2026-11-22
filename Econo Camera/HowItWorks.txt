@@ -1,0 +1,338 @@
+ECONO CAMERA — HOW IT WORKS
+===========================
+
+Econo Camera takes videos, photos and panoramas in small sizes so they
+don't waste space on your iPhone or iPad. It also has an MP3 and MP4
+converter, turns speech into text, and turns your pictures into cartoon
+animations.
+
+The app has five tabs along the bottom:
+
+    Camera  ·  Cartoon  ·  Library  ·  Convert  ·  Text
+
+
+------------------------------------------------------------
+THE FIRST TIME YOU OPEN IT
+------------------------------------------------------------
+
+1. Open Econo Camera. It starts on the Camera tab.
+2. When asked, tap Allow for the Camera.
+3. When asked, tap Allow for the Microphone (needed for sound in videos).
+   If you say no, videos are recorded without sound.
+4. Later, the app may also ask about:
+   - Speech Recognition — the first time you turn speech into text.
+   - Photos — only if you save a copy to the Photos app.
+
+If you said no by mistake, go to the iPhone's Settings › Econo Camera
+and turn the permission back on.
+
+
+------------------------------------------------------------
+CHOOSING A SIZE (60p, 120p, 240p, 480p, 720p)
+------------------------------------------------------------
+
+The buttons across the top of the Camera tab set the size. The size you
+pick (shown in yellow) is used for videos, photos and panoramas.
+
+   Size   What it's good for                     Video, about
+   ----   ------------------------------------   ------------
+   60p    Postage stamp — shapes and colors      0.6 MB a minute
+   120p   Very tiny — faces and big shapes       1.0 MB a minute
+   240p   Small — good for most memories         2.0 MB a minute
+   480p   Clear enough for most things           4.6 MB a minute
+   720p   Sharp, still much smaller than normal  9.0 MB a minute
+
+(A normal iPhone video uses about 60–400 MB a minute.)
+
+Under the size buttons, a line tells you about how much space a video
+will use per minute, or how big a photo will be.
+
+
+------------------------------------------------------------
+CAMERA TAB
+------------------------------------------------------------
+
+Above the big button, choose VIDEO, PHOTO or PANO.
+
+TAKING A VIDEO
+1. Tap VIDEO.
+2. Pick a size at the top.
+3. Tap the red button to start. A timer and the size so far appear
+   at the top.
+4. Tap the button again (now a red square) to stop.
+5. The video is saved in Library › Videos.
+
+TAKING A PHOTO
+1. Tap PHOTO.
+2. Pick a size at the top.
+3. Tap the white button. The screen flashes white.
+4. The photo is saved in Library › Photos.
+
+TAKING A PANORAMA
+1. Tap PANO.
+2. Pick a size at the top. (The panorama's height is the size you pick,
+   e.g. 240p = 240 pixels tall.)
+3. Point the phone where you want the panorama to start.
+4. Tap the yellow button and hold still for a moment.
+5. Turn slowly to one side. Keep the phone level.
+   - "Slow down!" means you're turning too fast.
+   - "Keep the phone level" means you're tilting up or down.
+   - The bar fills up as the panorama gets wider.
+6. Tap the button (now a yellow square) to finish. It also stops by
+   itself when the bar is full.
+7. The panorama is saved in Library › Panoramas.
+   If you stop too soon, you'll be asked to turn a little further.
+
+OTHER CAMERA BUTTONS
+- Flip button (bottom right): switches between the back and front
+  cameras.
+- Small picture (bottom left): your last shot. Tap it to go to the
+  Library.
+- Gear (top right): Settings (see below).
+
+Note: the size, mode and camera can't be changed while you're
+recording or making a panorama.
+
+
+------------------------------------------------------------
+SETTINGS (the gear on the Camera tab)
+------------------------------------------------------------
+
+- Size: the same five sizes, with a short description of each.
+- Frames per second: 10, 15, 24 or 30. Fewer frames = smaller videos.
+- Video type:
+    Smallest (HEVC) — smallest files (best choice).
+    Plays anywhere (H.264) — a little bigger, but plays on older
+    computers and websites.
+- Record sound: turn off for silent videos (even smaller).
+- Also save to Photos: everything is always kept in Econo Camera;
+  turn this on to also put a copy in the Photos app.
+- MP3 quality: 32 to 192 kbps (higher = better sound, bigger file).
+- Times in text like [1:05]: adds times to text made from speech.
+
+Tap Done to close.
+
+
+------------------------------------------------------------
+CARTOON TAB — CARTOONS AND ANIMATIONS
+------------------------------------------------------------
+
+1. Pick a picture:
+   - "From Econo Camera…" — your photos, panoramas or cartoon pictures.
+   - "From Photos…" — any picture in the Photos app.
+   (From the Library, you can also open a photo and tap
+   "Turn into a Cartoon Animation.")
+
+2. Look — scroll sideways and tap one. Each button shows what your
+   picture will look like:
+     Original Picture, Black & White, Toon, Comic Book, Pencil Sketch,
+     Pop Art, Neon Glow, Old-Time Cartoon, Crayon
+
+   Pick Original Picture to keep your picture just as it is, or
+   Black & White to turn it into a black-and-white picture, and only
+   add the animation (the button then says "Make Animation").
+
+3. Animation — tap how it should move:
+     Wobbly Lines  — hand-drawn lines that wiggle
+     Bounce        — the picture hops and squashes
+     Wiggle        — the picture sways side to side
+     Zoom In       — slowly moves in closer
+     Draw It On    — lines are drawn across, then color fills in
+                     (with Original Picture or Black & White: a pencil
+                     sketch is drawn,
+                     then your real picture fades in)
+     Rainbow       — the colors cycle through the rainbow
+                     (with Black & White: rainbow tints wash over it)
+     Pan Across    — slides across the picture
+     Still Picture — no movement, just a cartoon picture
+   Use "Length" to choose 2 to 12 seconds.
+
+   Panoramas: Pan Across is chosen for you. Every other animation
+   (except Still Picture) also pans across a panorama.
+
+4. Size and make:
+   - Pick 60p, 120p, 240p, 480p or 720p.
+   - Tap "Make Cartoon Animation" (or "Make Cartoon Picture" for a
+     still). A bar shows the progress.
+
+5. It plays under "Your cartoon" (or "Your animation" for Original
+   Picture and Black & White). From there you can:
+   - Share it (the share button), or
+   - Tap "Save a Copy to Photos."
+   It is saved in Library › Cartoons (MP4 video, or JPEG for a still).
+
+
+------------------------------------------------------------
+LIBRARY TAB
+------------------------------------------------------------
+
+Everything Econo Camera makes is listed here, newest first, with its
+size. The line at the top shows how many files there are and how much
+space they use in total.
+
+- Tap a group button to show only that group:
+  All, Videos, Photos, Panoramas, Cartoons, Converted, Text.
+- Swipe left on a file to delete it.
+- Pull down to refresh the list.
+
+Tap a file to open it:
+- Videos and audio play at the top. Photos and panoramas show the
+  picture (swipe sideways to see a whole panorama). Text files show
+  the words.
+- "Size on phone" and the picture size are shown.
+
+What you can do with an open file:
+- Photos and panoramas: "Turn into a Cartoon Animation."
+- Videos:
+    Smaller copy — pick a size, then tap "Make …p MP4."
+- Videos and audio:
+    "Make MP3 (sound only)"
+    "Turn Speech into Text" — the words appear underneath, with a
+    Copy Text button.
+- Every file:
+    "Share or Save to Files…" (AirDrop, Messages, Mail, Files…)
+    "Save to Repository…" (see Repository below)
+    "Save a Copy to Photos" (videos and pictures)
+    "Rename"
+    "Delete"
+
+FINDING YOUR FILES OUTSIDE THE APP
+Open the Files app › Browse › On My iPhone › Econo Camera. There are
+folders for Videos, Photos, Panoramas, Cartoons, Converted and Text.
+
+
+------------------------------------------------------------
+REPOSITORY — KEEPING THINGS FOR LATER
+------------------------------------------------------------
+
+The repository is a long-term place to keep your best videos, photos,
+panoramas, cartoons, MP3s and text, each with a note, so you can find
+them again later.
+
+SAVING TO THE REPOSITORY
+1. In the Library, tap a file to open it.
+2. Tap "Save to Repository…"
+   (You can also tap the box button next to a new cartoon on the
+   Cartoon tab, or next to a new file on the Convert tab.)
+3. If you made an MP3 or text from it, leave "Also save its MP3/text"
+   on to keep them together.
+4. Type a note if you like (for example, who or where it was).
+5. Tap Save.
+
+The original stays in the Library. You can delete it from the Library
+to free up space while the repository keeps its copy.
+
+OPENING THE REPOSITORY
+1. Go to the Library tab.
+2. Tap "Repository" at the top. It shows how many things are saved and
+   how much space they use.
+3. Use the search box to find things by name, note, or the words in
+   their text.
+4. Tap an item to:
+   - Play it or see the picture.
+   - Read or change its note (tap Save Note).
+   - Share any of its files.
+   - "Copy Back to the Library" — puts copies back in the Library.
+   - "Delete from Repository" (or the trash button at the top) —
+     deletes it from the repository.
+
+DELETING FROM THE REPOSITORY
+- Swipe left on an item in the Repository list and tap Delete.
+- Or press and hold an item and choose "Delete from Repository."
+- Or tap Edit (top right), tap the red buttons, then Delete — handy
+  for deleting several items.
+- Or open an item and tap the trash button at the top.
+You are always asked before anything is deleted. Only the repository
+copy is deleted; anything still in your Library stays there.
+
+WHERE THE REPOSITORY IS KEPT
+- At first it is in the Files app › On My iPhone › Econo Camera ›
+  Repository, with one folder for each saved item.
+- To keep it somewhere else (iCloud Drive, a USB drive, or another
+  folder), tap "Change Folder…" in the Repository and pick a folder.
+- Tap "Use the Econo Camera Folder" to go back to the first place.
+  (Items already saved in the other folder stay there.)
+
+
+------------------------------------------------------------
+CONVERT TAB — MP3 & MP4 CONVERTER
+------------------------------------------------------------
+
+Use this to shrink big videos (for example, ones from the regular
+Camera app) or to pull the sound out as an MP3.
+
+1. Choose a video or audio file:
+   - Econo Camera — your own videos and audio.
+   - Photos — any video in the Photos app.
+   - Files — any audio or video in the Files app.
+2. To make a smaller video:
+   - Pick a size (60p to 720p) and the video type.
+   - Tap "Convert to …p MP4."
+3. To keep only the sound:
+   - Pick the MP3 quality.
+   - Tap "Convert to MP3."
+4. When it's done, the new file is shown with its size. It also tells
+   you how much space you saved, e.g. "Saved 180 MB (95% smaller)."
+   Tap the share button to send it or save it to Files.
+
+The original file isn't changed. If you shrank a video from the Photos
+app, you can delete the big original from Photos yourself to free up
+the space.
+
+Converted files are listed at the bottom (swipe left to delete) and in
+Library › Converted.
+
+
+------------------------------------------------------------
+TEXT TAB — AUDIO TO TEXT
+------------------------------------------------------------
+
+1. Choose a video or audio file (Econo Camera, Photos or Files).
+   It starts listening right away. "Listening… (on this device)"
+   shows the progress.
+   Your audio never leaves the phone.
+2. The words appear in the Text box. You can type in the box to fix
+   mistakes.
+3. Buttons:
+   - Copy — copies all the text.
+   - Save Changes — saves your fixes.
+   - Share button — send the text file or save it to Files.
+4. Turn on "Times like [1:05]" to add times to each part, then tap
+   "Turn Speech into Text" again.
+5. Earlier text is listed under "Saved text." Tap one to open it.
+
+Text files are kept in Library › Text.
+
+Note: the first time, the phone may download the speech files for
+your language, which can take a minute.
+
+
+------------------------------------------------------------
+TIPS FOR SAVING THE MOST SPACE
+------------------------------------------------------------
+
+- 240p is a good everyday size. Use 60p or 120p for quick notes and
+  reminders.
+- Keep the video type on "Smallest (HEVC)."
+- Lower the frame rate to 15 or 10 for talking or things that don't
+  move much.
+- Turn off "Record sound" when you don't need it.
+- Leave "Also save to Photos" off so you don't keep two copies.
+- Keep your favorites in the repository on iCloud Drive or a USB drive,
+  then delete them from the Library.
+- Shrink big videos from the Photos app with the Convert tab.
+
+
+------------------------------------------------------------
+IF SOMETHING ISN'T WORKING
+------------------------------------------------------------
+
+- "Camera access is off": tap Open Settings and turn on Camera.
+- Videos have no sound: Settings › Econo Camera › Microphone must be
+  on, and "Record sound" must be on in the app's settings.
+- The panorama didn't work: turn more slowly, keep the phone level,
+  and turn far enough before stopping.
+- Speech to text fails: Settings › Econo Camera › Speech Recognition
+  must be on.
+- Can't save to Photos: Settings › Econo Camera › Photos must allow
+  adding photos.
