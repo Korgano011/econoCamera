@@ -1,102 +1,33 @@
-<!doctype html>
-<html lang="en">
-<head>
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Econo Camera Privacy Policy</title>
-<style>
-  :root { --bg: #ffffff; --text: #1d1d1f; --muted: #6e6e73; --accent: #d70015; --line: #e5e5ea; }
-  @media (prefers-color-scheme: dark) {
-    :root { --bg: #000000; --text: #f5f5f7; --muted: #a1a1a6; --accent: #ff453a; --line: #38383a; }
-  }
-  body { margin: 0; background: var(--bg); color: var(--text);
-         font: 17px/1.55 -apple-system, BlinkMacSystemFont, "Helvetica Neue", Arial, sans-serif; }
-  main { max-width: 680px; margin: 0 auto; padding: 40px 16px 64px; }
-  h1 { font-size: 32px; line-height: 1.2; margin: 0 0 4px; }
-  h2 { font-size: 20px; margin: 32px 0 8px; }
-  .date { color: var(--muted); margin: 0 0 24px; }
-  .summary { border-left: 4px solid var(--accent); padding: 4px 0 4px 16px; margin: 0 0 8px; }
-  ul { padding-left: 22px; }
-  li { margin: 4px 0; }
-  a { color: var(--accent); }
-  footer { margin-top: 40px; padding-top: 16px; border-top: 1px solid var(--line); color: var(--muted); font-size: 15px; }
-</style>
-</head>
-<body>
-<main>
-  <h1>Econo Camera Privacy Policy</h1>
-  <p class="date">Effective November 22, 2026</p>
-
-  <p class="summary"><strong>Econo Camera does not collect any personal data.</strong>
-  Your videos, photos, panoramas, cartoons, MP3s and transcripts stay on your device or in a
-  folder you choose. Nothing is sent to us.</p>
-
-  <h2>What the app stores</h2>
-  <p>Econo Camera saves the files you create (videos, photos, panoramas, cartoon animations,
-  converted MP4 and MP3 files, text transcripts, and Repository items with any notes you add)
-  only in places you control:</p>
-  <ul>
-    <li>On iPhone and iPad: in the app’s own folder, shown in the Files app under
-        “On My iPhone” or “On My iPad” › Econo Camera.</li>
-    <li>In any other folder you pick for the Repository, such as iCloud Drive or an external drive.
-        If you choose an iCloud Drive folder, Apple stores those files under your iCloud account
-        and Apple’s privacy policy applies to them.</li>
-  </ul>
-  <p>The app also keeps your settings (such as resolution and whether sound is recorded) on your
-  device. You can delete any of your files at any time from the app, the Files app or Finder.
-  Deleting the app removes its settings and the files kept in its own folder.</p>
-
-  <h2>Camera</h2>
-  <p>The camera is used only to take the videos, photos and panoramas you ask for. Video recording
-  starts when you start it and stops when you stop it. While the camera is on, your iPhone or iPad
-  shows a green dot at the top of the screen.</p>
-
-  <h2>Microphone</h2>
-  <p>When “Record sound” is on (it is on unless you turn it off in Settings), the microphone adds
-  sound to your video recordings. The sound is saved in the recording file on your device and is
-  not sent anywhere. Turn off “Record sound” to record video without sound.</p>
-
-  <h2>Photos</h2>
-  <p>If you choose a video or picture from your Photos library to convert or turn into a cartoon,
-  only the item you pick is given to the app. If you tap Save to Photos, the app asks for
-  permission to add items to your library. It can add items but cannot see or read the rest of
-  your library.</p>
-
-  <h2>Audio to Text</h2>
-  <p>Speech recognition runs on your device using Apple’s built-in speech technology. Your audio
-  and the text made from it are not sent to us or to any other service. The first time you use
-  Audio to Text, your device may download Apple’s speech language files. That download does not
-  include any of your audio or text.</p>
-
-  <!-- ALTERNATE Audio to Text paragraph: use ONLY if you do NOT make the code fix (Part 1, item 1a):
-  <p>Speech recognition uses Apple’s built-in speech technology. Whenever your device and language
-  support it, it runs entirely on your device. If they don’t, iOS may send the audio to Apple to
-  turn it into text. In that case Apple’s privacy policy applies. Your audio and text are never
-  sent to us.</p>
-  -->
-
-  <h2>What we do not do</h2>
-  <ul>
-    <li>No accounts or sign-in.</li>
-    <li>No analytics, tracking or advertising.</li>
-    <li>No third-party code that collects data. The built-in MP3 encoder (LAME) runs only on your device.</li>
-    <li>No sharing or selling of data. We never receive any data to share.</li>
-  </ul>
-
-  <h2>Sharing your files</h2>
-  <p>If you choose to share a file, for example by AirDrop, Mail or Messages, it is sent by the app
-  you choose, and that service’s privacy policy applies.</p>
-
-  <h2>Children</h2>
-  <p>Econo Camera does not collect personal information from anyone, including children.</p>
-
-  <h2>Changes to this policy</h2>
-  <p>If this policy changes, the new version will be posted on this page with a new effective date.</p>
-
-  <h2>Contact</h2>
-  <p>Questions about privacy? Email <a href="mailto:operafan01@gmail.com">operafan01@gmail.com</a>.</p>
-
-  <footer>Econo Camera · <a href="support.html">Support</a></footer>
-</main>
-</body>
-</html>
+Econo Camera Support
+Videos, photos and panoramas with tiny files, for iPhone and iPad.
+Need help or found a problem? Email operafan01@gmail.com. Please include your device (for example iPhone 16 or iPad Air) and what you were doing when it happened.
+For step-by-step help in the app, tap the ? on the Camera tab or in the Library.
+Taking a video
+	1	On the Camera tab, choose VIDEO above the big button.
+	2	Pick a size at the top, from 60p (tiniest) to 720p (sharpest). The line under the sizes shows about how much space a minute will use.
+	3	Tap the red button to start, and tap it again to stop.
+	4	The video is saved in Library › Videos.
+Photos and panoramas
+	1	Photo: choose PHOTO, pick a size, and tap the white button. The photo is saved in Library › Photos.
+	2	Panorama: choose PANO, pick a size, and tap the yellow button. Hold still for a moment, then turn slowly to one side and keep the phone level. Tap the button again to finish, or it stops by itself when the bar is full. The panorama is saved in Library › Panoramas.
+Cartoon animations
+	1	Open the Cartoon tab and pick a picture From Econo Camera… or From Photos….
+	2	Choose a look, such as Toon, Comic Book, Pencil Sketch or Original Picture.
+	3	Choose an animation, such as Wobbly Lines, Bounce or Draw It On, then tap Make Cartoon Animation.
+	4	The animation is saved in Library › Cartoons.
+Making files smaller
+	•	Pick a smaller size: 60p, 120p or 240p.
+	•	Lower the frames per second in Settings (the gear on the Camera tab). 15 is fine for most everyday videos; use 24 or 30 for fast action.
+	•	In Settings, set Video type to Smallest (HEVC). It makes files about 30% smaller than Plays anywhere (H.264).
+	•	Turn off Record sound in Settings for silent videos.
+	•	Use the Convert tab to shrink videos you already have, or keep just the sound as an MP3.
+Audio to Text
+Audio to Text, on the Text tab or from a video in the Library, turns what was said into notes. The first use may need your device’s speech language to be downloaded. If it doesn’t start, allow Speech Recognition for Econo Camera in Settings › Privacy & Security › Speech Recognition.
+Camera or microphone not working
+If the Camera tab is blank or videos have no sound, open the iPhone or iPad Settings app, tap Econo Camera, and turn on Camera and Microphone. Also check that Record sound is on in the app’s Settings.
+Where are my videos and photos?
+	•	In the app: the Library tab, sorted into Videos, Photos, Panoramas, Cartoons, Converted and Text.
+	•	In the Files app: On My iPhone (or On My iPad) › Econo Camera.
+	•	If you turned on Also save to Photos in Settings, a copy is also in the Photos app.
+	•	Items you save to the Repository are kept in their own folder. To use a different folder, open Library › Repository and tap Change Folder….
+Econo Camera · Privacy Policy
